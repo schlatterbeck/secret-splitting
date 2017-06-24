@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Copyright (C) 2016 Dr. Ralf Schlatterbeck Open Source Consulting.
+# Copyright (C) 2016-17 Dr. Ralf Schlatterbeck Open Source Consulting.
 # Reichergasse 131, A-3411 Weidling.
 # Web: http://www.runtux.com Email: office@runtux.com
 # All rights reserved
@@ -22,7 +22,7 @@
 
 
 from distutils.core import setup, Extension
-license = 'GNU Library or Lesser General Public License (LGPL)'
+license = 'BSD License'
 
 description = []
 f = open ('README.rst')
